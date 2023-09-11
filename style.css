@@ -1,0 +1,18 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+body h2{
+    color: #fff;
+    font-size: 4em;
+    padding: auto;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+    display: inline-block;
+}
